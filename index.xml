@@ -6,10 +6,19 @@
     <description>Recent content on profe55orx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Jul 2018 16:05:23 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jul 2018 20:25:51 +0100</lastBuildDate>
     
 	<atom:link href="https://profe55orx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://profe55orx.github.io/about/</link>
+      <pubDate>Sat, 07 Jul 2018 20:25:51 +0100</pubDate>
+      
+      <guid>https://profe55orx.github.io/about/</guid>
+      <description>This will contain info about me in the future</description>
+    </item>
     
     <item>
       <title>I Would Love to Use Alacritty But...</title>
