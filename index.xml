@@ -6,10 +6,19 @@
     <description>Recent content on profe55orx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Jul 2018 20:25:51 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jul 2018 21:01:33 +0100</lastBuildDate>
     
 	<atom:link href="https://profe55orx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I don&#39;t get hugo as much as I would like to</title>
+      <link>https://profe55orx.github.io/posts/i-would-like-to-understand-hugo-more/</link>
+      <pubDate>Sat, 07 Jul 2018 21:01:33 +0100</pubDate>
+      
+      <guid>https://profe55orx.github.io/posts/i-would-like-to-understand-hugo-more/</guid>
+      <description>This is my third attempt to use Hugo. I must admit some times trying to persuade it that a post is not a draft is a bit painful. And to be honest I am not sure if it is Hugo&amp;rsquo;s fault or the theme&amp;rsquo;s. For what is worth I desided I am going to keep using it. There are a bunch of static site generators and each time I try to check which one I should use I end up on Jekyll.</description>
+    </item>
     
     <item>
       <title>About</title>
