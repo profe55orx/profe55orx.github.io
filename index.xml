@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>profe55orx</title>
+    <link>https://profe55orx.github.io/</link>
+    <description>Recent content on profe55orx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Jul 2018 16:05:23 +0100</lastBuildDate>
+    
+	<atom:link href="https://profe55orx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I Would Love to Use Alacritty But...</title>
+      <link>https://profe55orx.github.io/posts/i-would-love-to-use-alacritty-but/</link>
+      <pubDate>Sat, 07 Jul 2018 16:05:23 +0100</pubDate>
+      
+      <guid>https://profe55orx.github.io/posts/i-would-love-to-use-alacritty-but/</guid>
+      <description>A few days ago I started working on my dotfiles. I was sold on the idea of using that new kid in the block called alacritty. A brand new and shiny [rust] built terminal emulator which is woshiped by terminal hipsters lately. A few words before I get down to this. Alacritty is a nice piece of software and this is not me naging about it. It mainly me sharing my experience.</description>
+    </item>
+    
+  </channel>
+</rss>
