@@ -35,7 +35,8 @@
       <pubDate>Sat, 07 Jul 2018 16:05:23 +0100</pubDate>
       
       <guid>https://profe55orx.github.io/posts/i-would-love-to-use-alacritty-but/</guid>
-      <description>(update) I cannot just sit standing with an issue like this so I looked around and found a solution. Adding the following under keybindings section of alacritty configuration file seems to do the trick:
+      <description>(update)
+I cannot just sit standing with an issue like this so I looked around and found a solution. Adding the following under keybindings section of alacritty configuration file seems to do the trick:
 - { key: Key3, mods: Alt, chars: &amp;#34;\x23&amp;#34; } A few days ago I started working on my dotfiles. I was sold on the idea of using that new kid in the block called alacritty. A brand new and shiny [rust] built terminal emulator which is woshiped by terminal hipsters lately.</description>
     </item>
     
