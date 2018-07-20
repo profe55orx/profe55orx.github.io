@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bdd on profe55orx</title>
+    <link>https://profe55orx.github.io/tags/bdd/</link>
+    <description>Recent content in Bdd on profe55orx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Jul 2018 13:06:15 +0100</lastBuildDate>
+    
+	<atom:link href="https://profe55orx.github.io/tags/bdd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digging into software development (part 1)</title>
+      <link>https://profe55orx.github.io/posts/digging-into-software-development-1/</link>
+      <pubDate>Fri, 20 Jul 2018 13:06:15 +0100</pubDate>
+      
+      <guid>https://profe55orx.github.io/posts/digging-into-software-development-1/</guid>
+      <description>Purpose I always wanted to touch the holistic approach of TTD/BDD with CI/CD So this is the purpose of this series of blog posts. Now I have the oportunity to experiment more than usual. With this blog post I intend to dig into those subjects in the context of the following parameters:
+ Golang as the language of choice Bosh as the deployment tool Concourse as the CI tool  My target is to go even further to the Google ecosystem and touch Kubernetes even.</description>
+    </item>
+    
+  </channel>
+</rss>
